@@ -1,0 +1,13 @@
+.custom-height {
+  height: 100vh;
+}
+
+.cutom-blue {
+  background: #00abe4;
+}
+
+.active-link {
+  background-color: #007acc; /* Change the background color to your desired color */
+  color: white; /* Change the text color for the active link */
+  font-weight: bold; /* You can add more styles as needed */
+}

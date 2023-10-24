@@ -1,0 +1,9 @@
+/* custom.css */
+.custom-input {
+  border-color: #00abe4 !important;
+}
+
+/* Optionally, you can style the focus state as well */
+.custom-input:focus {
+  border-color: #00abe4 !important;
+}
